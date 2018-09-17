@@ -17,3 +17,9 @@ The Roland Modela MDX-20 is a desktop 3D scanning and milling machine that is co
 
 ![Specifications](https://raw.githubusercontent.com/salmanfarisvp/fablab-docs/master/img/modela/spec.jpg)
 
+
+#### HOW IT'S WORK (MODELLA MDX 20)....?
+
+<iframe src="https://giphy.com/embed/vguYDhPXW7ZTLj6iCf" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+
