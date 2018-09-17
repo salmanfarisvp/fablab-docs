@@ -1,6 +1,6 @@
 ## Welcome to FabLab Machine Guide
 
-Documentation about FabLab Machine's and Guides how to use them in proper way.
+Documentation about FabLab Machine's and Guides how to use them in proper way. https://salmanfarisvp.github.io/fablab-docs/
 
 ### Roland Modela MDX-20 3D Milling Machine
 
