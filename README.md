@@ -6,4 +6,4 @@ Documentation about FabLab Machine's and Guides how to use them in proper way.
 
 ### Machien List
 
-- [Modela MDX-20]()
+- [Modela MDX-20](https://github.com/salmanfarisvp/fablab-docs/blob/master/modela.md)
