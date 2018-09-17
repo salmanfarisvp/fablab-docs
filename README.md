@@ -76,17 +76,17 @@ Now set the 'X'axis and 'Y'axis
 
 First clik the **View** button on the Modela Control panel.
 
-<iframe src="https://giphy.com/embed/1AdZgc5HgWmcNj637V" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1AdZgc5HgWmcNj637V">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/1AdZgc5HgWmcNj637V" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Now change the bit ,For milling we use **1/64** bit.
 
 ![64bit](https://raw.githubusercontent.com/salmanfarisvp/fablab-docs/master/img/modela/64bit.jpg)
 
-<iframe src="https://giphy.com/embed/2zZlPjbnyCYcEEYOlQ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2zZlPjbnyCYcEEYOlQ">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/2zZlPjbnyCYcEEYOlQ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 After tighten the bit, click the **View** button to get back to Home position.
 
-<iframe src="https://giphy.com/embed/1YjoCFA4Jt1o8Q6xIL" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1YjoCFA4Jt1o8Q6xIL">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/1YjoCFA4Jt1o8Q6xIL" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 
 Now set the Correct X and Y axis based on our PCB board Position.
@@ -97,7 +97,7 @@ Note :- Don't forget the X and Y axis.if we face any issue like power failure of
 
 Now Click **Make.rml** to genrate instruction after that click **Send it** ! to start Milling.
 
-<iframe src="https://giphy.com/embed/4EFqZyy4xbS4fZQQjF" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/4EFqZyy4xbS4fZQQjF">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/4EFqZyy4xbS4fZQQjF" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 Now we successfully milled the Trace
 
@@ -109,7 +109,7 @@ Next Cut the Trace, First change the Bit,For Cutting we use **1/32**
 
 so first load the Image in **Fab Module** and make the path after that send it to machine to cutting
 
-![fabmod3](https://raw.githubusercontent.com/salmanfarisvp/fablab-docs/master/img/modela/fabmod3.jpg)
+![fabmod3](https://raw.githubusercontent.com/salmanfarisvp/fablab-docs/master/img/modela/fabmod3.png)
 
 make sure to set the bit as the **cut board(1/32)** and do the same that we did for milling , **make.path** and **make.rml** and start process by clicking **Send it!**
 
