@@ -13,3 +13,4 @@ Documentation about FabLab Machine's and Guides how to use them in proper way. h
 ### Machien List
 
 - [Modela MDX-20](https://salmanfarisvp.github.io/fablab-docs/modela)
+- [Roland GX-24 Desktop Vinyl Cutter](https://salmanfarisvp.github.io/fablab-docs/roland)
