@@ -127,11 +127,12 @@ We successfully completed cuting .
 the same modela we are using for Scan 3D object. but in here we changed the milling head to Scanning head.
 
 
- #### Setting the Machine
+
+#### Setting the Machine
 
 1. First i Fixed the gear on the Scarificial layer using double tape insulation.
 
-    ![scan Two](https://raw.githubusercontent.com/salmanfarisvp/fablab-docs/master/img/modela/scan1.jpg)
+    ![scan Two](https://raw.githubusercontent.com/salmanfarisvp/fablab-docs/master/img/modela/scan2.jpg)
 
 2.  We can use Dr.PICZA software to scan with Modela.
 
