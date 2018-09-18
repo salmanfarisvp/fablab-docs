@@ -119,7 +119,7 @@ We successfully completed cuting .
 
 ### 3D Scanning 
 
-    3D Scanning is a process to convert Real 3D object to computer File.it's opposit process of 3D Design .Today there somany 3D Scanner's avilable     Depthsensor like Micorsoft Kinect and Intel Real-Sense is a good Example.
+ 3D Scanning is a process to convert Real 3D object to computer File.it's opposit process of 3D Design .Today there somany 3D Scanner's avilable     Depthsensor like Micorsoft Kinect and Intel Real-Sense is a good Example.
 
 ![scan one](https://raw.githubusercontent.com/salmanfarisvp/fablab-docs/master/img/modela/scan1.jpg)
 
@@ -127,8 +127,7 @@ We successfully completed cuting .
 the same modela we are using for Scan 3D object. but in here we changed the milling head to Scanning head.
 
 
-
- ####Setting the Machine
+ #### Setting the Machine
 
 1. First i Fixed the gear on the Scarificial layer using double tape insulation.
 
@@ -142,13 +141,13 @@ the same modela we are using for Scan 3D object. but in here we changed the mill
 
     ![scan Four](https://raw.githubusercontent.com/salmanfarisvp/fablab-docs/master/img/modela/scan4.png)
 
-So here the Blue area is the Scanning Area and the Yellow is the tottal Ground Area.
+    So here the Blue area is the Scanning Area and the Yellow is the tottal Ground Area.
 
 4. After that we can test the Area by using the **begin Test Area** option after that i started scanning.
 
     ![scan Five](https://raw.githubusercontent.com/salmanfarisvp/fablab-docs/master/img/modela/scan5.png)
 
-5. **Scanning**
+5. **Scanning** Process
 
     <iframe src="https://giphy.com/embed/9VkcRoXSl6EUjst8zI" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
