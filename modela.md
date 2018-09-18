@@ -117,3 +117,60 @@ We successfully completed cuting .
 
 
 
+### 3D Scanning 
+
+    3D Scanning is a process to convert Real 3D object to computer File.it's opposit process of 3D Design .Today there somany 3D Scanner's avilable     Depthsensor like Micorsoft Kinect and Intel Real-Sense is a good Example.
+
+![scan one](https://raw.githubusercontent.com/salmanfarisvp/fablab-docs/master/img/modela/scan1.jpg)
+
+
+the same modela we are using for Scan 3D object. but in here we changed the milling head to Scanning head.
+
+
+
+ ####Setting the Machine
+
+1. First i Fixed the gear on the Scarificial layer using double tape insulation.
+
+    ![scan Two](https://raw.githubusercontent.com/salmanfarisvp/fablab-docs/master/img/modela/scan1.jpg)
+
+2.  We can use Dr.PICZA software to scan with Modela.
+
+    ![scan Three](https://raw.githubusercontent.com/salmanfarisvp/fablab-docs/master/img/modela/scan3.png)
+
+3. First we need to set the scanning area for calibrating the Sensor and Software.
+
+    ![scan Four](https://raw.githubusercontent.com/salmanfarisvp/fablab-docs/master/img/modela/scan4.png)
+
+So here the Blue area is the Scanning Area and the Yellow is the tottal Ground Area.
+
+4. After that we can test the Area by using the **begin Test Area** option after that i started scanning.
+
+    ![scan Five](https://raw.githubusercontent.com/salmanfarisvp/fablab-docs/master/img/modela/scan5.png)
+
+5. **Scanning**
+
+    <iframe src="https://giphy.com/embed/9VkcRoXSl6EUjst8zI" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+    ![scan Six](https://raw.githubusercontent.com/salmanfarisvp/fablab-docs/master/img/modela/scan6.png)
+
+
+    It will take time to scan the whole area one by one as layer.
+
+    ![scan Seven](https://raw.githubusercontent.com/salmanfarisvp/fablab-docs/master/img/modela/scan7.png)
+
+
+    <iframe width="640" height="480" src="https://sketchfab.com/models/1c844fe514164bcd99edd734d7c7a9c0/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
