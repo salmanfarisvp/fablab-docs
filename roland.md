@@ -17,3 +17,13 @@ we have the Roland CAMM-1 Servo desktop vinyl cutter. It has a knife which is mo
 
 1. First we need to release the pressure plate by pressing the handle on the left side. for inserting the sheet and Load the sheet from the back.
     ![Step One](https://raw.githubusercontent.com/salmanfarisvp/fablab-docs/master/img/roland/step1.gif)
+
+2. Slide the pressure rollers to where the sheet is placed, making sure that the rollers stay inside the white lines.Pull up the pressure plate handle to lock the sheet in place.
+    ![Step Two](https://raw.githubusercontent.com/salmanfarisvp/fablab-docs/master/img/roland/step2.gif)
+
+3. Turn on the machine, the tool head will move to the home position.
+
+4. Select the type of sheet (Roll or Peice), click enter
+
+![Step Three](https://raw.githubusercontent.com/salmanfarisvp/fablab-docs/master/img/roland/step3.gif)
+
