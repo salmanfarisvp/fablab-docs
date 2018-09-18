@@ -1,6 +1,6 @@
 ## Roland GX-24 Desktop Vinyl Cutter
 
-![Roland](https://raw.githubusercontent.com/salmanfarisvp/fablab-docs/master/img/roland/main.jpg)
+![Roland](https://raw.githubusercontent.com/salmanfarisvp/fablab-docs/master/img/roland/roland.jpg)
 
 The CAMM-1 Servo GX-24 uses a digital servomotor to achieve maximum accuracy and cutting speeds up to 20 inches per second. The desktop cutter also features a curve-smoothing function that allows precise cutting even at high speeds. The result is faster production and more professional-looking graphics.
 
